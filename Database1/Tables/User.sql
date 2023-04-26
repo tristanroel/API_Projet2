@@ -4,5 +4,6 @@
     [FirstName] VARCHAR(50) NOT NULL, 
     [LastName] VARCHAR(50) NOT NULL, 
     [BirthDate] DATE NOT NULL, 
-    [Country] VARCHAR(50) NOT NULL
+    [Country] VARCHAR(50) NOT NULL, 
+    [Score] INT NULL
 )
